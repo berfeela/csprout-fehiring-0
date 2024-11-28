@@ -1,8 +1,8 @@
 # csprout-fehiring-0
 Mock database for FE assignment var-0.
 
-Objective
-The candidate should build a single-page application where users can:
+Objective:
+The candidate should build a single-page application where users can --
 
 - Add, edit, delete, and mark tasks as complete.
 - Filter tasks by "All," "Completed," and "Pending."
