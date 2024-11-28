@@ -1,0 +1,24 @@
+{
+    "tasks": [
+      { "id": 1, "title": "Complete the project report", "completed": false },
+      { "id": 2, "title": "Prepare for the client meeting", "completed": true },
+      { "id": 3, "title": "Design the new website layout", "completed": false },
+      { "id": 4, "title": "Review pull requests on GitHub", "completed": true },
+      { "id": 5, "title": "Schedule team standup meeting", "completed": false },
+      { "id": 6, "title": "Test the new API endpoints", "completed": true },
+      { "id": 7, "title": "Research competitive products", "completed": false },
+      { "id": 8, "title": "Finalize marketing campaign", "completed": false },
+      { "id": 9, "title": "Write a blog post on recent updates", "completed": true },
+      { "id": 10, "title": "Organize office files and documents", "completed": false },
+      { "id": 11, "title": "Plan the quarterly budget", "completed": true },
+      { "id": 12, "title": "Send follow-up emails to clients", "completed": false },
+      { "id": 13, "title": "Update employee contact list", "completed": true },
+      { "id": 14, "title": "Prepare a demo for the new feature", "completed": false },
+      { "id": 15, "title": "Fix critical bugs in the application", "completed": false },
+      { "id": 16, "title": "Attend the webinar on AI trends", "completed": true },
+      { "id": 17, "title": "Document API changes in the wiki", "completed": false },
+      { "id": 18, "title": "Prepare slides for the product pitch", "completed": false },
+      { "id": 19, "title": "Clean up the codebase for deployment", "completed": true },
+      { "id": 20, "title": "Plan a team-building activity", "completed": false }
+    ]
+  }
