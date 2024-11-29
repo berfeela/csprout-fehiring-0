@@ -1,0 +1,23 @@
+https://my-json-server.typicode.com/berfeela/csprout-fehiring-0/tasks/
+
+below is the sample reponse you will get from this api
+
+[
+    {
+        "id": 1,
+        "title": "Complete the project report",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Prepare for the client meeting",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "Design the new website layout",
+        "completed": false
+    }
+
+]
+  
