@@ -1,0 +1,36 @@
+Dynamic Table with Dropdown Selection
+
+Objective 
+Build a React application using TypeScript that displays data from two API endpoints in a table. The user can select the data source using a dropdown menu, and the table should update dynamically without reloading the page.
+
+
+Tasks
+
+1. Dropdown
+Create a dropdown with two options: "Posts" and "Comments"
+Fetch data from the appropriate endpoint:
+  For "Posts": https://jsonplaceholder.typicode.com/posts
+  For "Comments": https://jsonplaceholder.typicode.com/comments
+Trigger data fetching and table update when the user selects an option, ensuring the page doesn't reload
+
+2. Table
+Display the fetched data in a table.
+Columns for /posts: ID, Title.
+Columns for /comments: ID, Name.
+Dynamically render the table based on the selected data source.
+
+3. Dynamic Update
+Use React's useState and useEffect to dynamically fetch and display data without refreshing the page.
+
+
+Requirements
+Use React and TypeScript.
+Fetch and update the table dynamically based on dropdown selection.
+No refreshing the page (e.g., no window.reload()).
+
+Deliverables
+A react app with a dropdown menu and a table that switches dynamically upon user's selection from that dropdown.
+
+Environment
+We will post a link to your codespace here - make a directory using firstname-lastname (e.g. meghav-verma). You will have 3hrs to complete this assignment after which you will be kicked out of the codespace.
+Happy coding :)
