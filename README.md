@@ -33,5 +33,3 @@ Requirements
 Deliverables
 - A link to a GitHub repository containing the code.
 - A live demo link
-
-Add a README file if you have any specific instructionsto run your submission
